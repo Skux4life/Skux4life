@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to my little corner of GitHub.
+
+![bird](./BirdNord.png)
+
 <!--
 **Skux4life/Skux4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
