@@ -21,8 +21,8 @@ I spend my days eliminating manual toil with code and building stable delivery p
 ---
 
 ### 📂 Featured Repositories
-* 🔹 **[Repository Name](https://github.com/yourusername/repo)** – *A collection of my Python & Bash automation scripts.*
-* 🔹 **[Repository Name](https://github.com/yourusername/repo)** – *My homelab infrastructure configurations and manifests.*
+* 🔹 **[lab](https://github.com/Skux4life/lab)** – *A collection of various scripts and templates.*
+* 🔹 **[homelab](https://github.com/Skux4life/homelab)** – *My homelab infrastructure configurations and manifests.*
 
 ---
 
